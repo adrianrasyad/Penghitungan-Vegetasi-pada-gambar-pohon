@@ -1,7 +1,7 @@
 import streamlit as st
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+# Baris 'import matplotlib.pyplot as plt' dihapus karena tidak digunakan.
 
 # --- KONFIGURASI STREAMLIT ---
 # Mengatur layout default menjadi lebar untuk tampilan yang lebih baik
